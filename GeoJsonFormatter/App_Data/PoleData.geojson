@@ -1,0 +1,1608 @@
+{
+    "type": "FeatureCollection",
+    "name": "PoleData2",
+    "crs": {
+        "type": "name",
+        "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 1.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1611",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.339609189805819, 53.793322159310989, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 2.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1612",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.339563702211922, 53.792557731549323, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 3.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1909",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.340336427142387, 53.793248456566566, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 5.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1902",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.339973332336365, 53.792864453550585, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 6.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1618",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.337669828652083, 53.792982268530885, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 7.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1614",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.338583106008041, 53.792701153720053, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 9.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1617",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.338939680287742, 53.793390458477532, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 10.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1615",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.33828422569277, 53.793450990321482, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 11.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1616",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.337727650955247, 53.793504610759726, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 12.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1375",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.340666979164409, 53.793735223029664, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 14.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1566",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.340661026695593, 53.794239200307651, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 15.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1906",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.340287456681502, 53.794268946867554, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 16.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1943",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.339592183202429, 53.793901770966087, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 17.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1908",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.339727602428426, 53.794317859613493, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 18.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1945",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.339227559771012, 53.794367406608401, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 19.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1610",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.338985372709212, 53.794388943353646, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 20.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1569",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.338351404870495, 53.794445813694139, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 21.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1567",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.338246704056622, 53.794064779134551, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 22.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1570",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.337982169661013, 53.794485185418125, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 23.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1376",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.340733344701709, 53.794617364443383, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 24.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1944",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.340506134244515, 53.795186828743098, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 25.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1348",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.339834906104383, 53.795377538674344, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 26.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_2164",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.339717715257995, 53.795263825311537, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 27.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_2165",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.339874579326093, 53.795152058842497, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 29.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_2156",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.338422488877505, 53.794926685747754, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 30.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_2155",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.339128816594041, 53.794929305472316, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 31.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_2162",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.33890528817904, 53.794877314829456, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 32.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_2163",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.33921719908133, 53.795292495119384, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 34.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1347",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.33907519551536, 53.795555619079224, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 36.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_2169",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.338558942393753, 53.795735296831374, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 37.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_2161",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.337843270249405, 53.795747059180108, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 38.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_2168",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.33794999564022, 53.79593932670879, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 40.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_2157",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.337697715594757, 53.795405463893609, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 41.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_2160",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.337495270666039, 53.795420860553598, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 42.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1352",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.337007470090086, 53.79622622300041, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 43.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_2170",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.336437271035686, 53.796460866663395, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 45.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1541",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.336636591831604, 53.795840793729774, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 47.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1867",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.335413661814484, 53.796058978559223, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 48.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1543",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.335304054077524, 53.795663879095784, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 49.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1544",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.334535270373418, 53.795727795042794, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 50.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1871",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.335263102393485, 53.79641785051971, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 51.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1863",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.335173720460653, 53.796081719280266, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 52.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1730",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "9L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.334724969271746, 53.796128454741194, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 53.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1549",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.336236678527009, 53.795977520729203, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 54.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1865",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "9L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.336200418989847, 53.796201161878692, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 55.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1350",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.334297535114481, 53.797110785392654, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 57.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1546",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.333631407163161, 53.795564262824342, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 58.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1542",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.332755583208281, 53.795642770551929, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 59.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1458",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.33179545546778, 53.795731513019554, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 60.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1892",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.332867720921795, 53.796069039653347, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 61.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1389",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.331871009621031, 53.796166444604616, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 62.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1869",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.333799520616997, 53.796171961093158, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 63.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1864",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.332923014412374, 53.796257308910683, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 64.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1870",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.332953835793498, 53.796466983510633, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 65.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1873",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.331914372785784, 53.79657227099672, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 66.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1874",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.333046818777695, 53.796658554066177, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 69.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1877",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.334049394430277, 53.796565836706719, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 71.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1880",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.332820095191933, 53.796989458290199, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 73.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1879",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.332027303648128, 53.79705753978827, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 74.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1878",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.33284623901714, 53.797109199638925, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 75.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1381",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.333682036248375, 53.79703386821555, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 76.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1876",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.332925125116828, 53.797393729458207, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 77.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1930",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": "UNEC",
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.332182360980472, 53.797463921925647, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 78.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1886",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.333069339113545, 53.797535430873943, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 79.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1388",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": "UNEC",
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.332373219546033, 53.797625098995987, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 80.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1387",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": "UNEC",
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.331036909884233, 53.797469801384374, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 81.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1386",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": "UNEC",
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.330873874925255, 53.797559241543659, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 82.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1344",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.33379180983694, 53.797296939094068, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 84.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1351",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.335531022190371, 53.796729988588282, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 85.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1349",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.334906918278359, 53.796927550129269, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 86.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1550",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.336251695952825, 53.795397835872642, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 87.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1556",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.335565364947759, 53.794641282644555, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 88.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1559",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.335949196343413, 53.795059149879449, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 89.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1562",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.3351752132817, 53.794746154452326, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 90.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1385",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": "UNEC",
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.33164829001117, 53.797589448566967, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 91.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1564",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.33443304485267, 53.794233462550153, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 92.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1554",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.334594448292626, 53.794784551220033, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 93.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1560",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.334962105479011, 53.794754002112782, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 94.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1561",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.335290801653822, 53.795149434043147, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 95.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1557",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10M",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.335276748312624, 53.794286277487416, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 96.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1609",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.336001910051901, 53.794078491013977, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 97.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1565",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.336241728145157, 53.794332756843019, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 98.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1568",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "9L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.33661405429317, 53.794208609696604, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 99.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1551",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.335929133059229, 53.794437434042123, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 100.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1552",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.336347141944204, 53.794861475213345, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 101.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1555",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.337004188002969, 53.794651859060245, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 102.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1608",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.336451083182966, 53.793896389492353, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 103.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1606",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.335992274688098, 53.793381074779305, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 104.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1905",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.33999873394248, 53.793282681072881, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 105.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1907",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.340174602703963, 53.793824816256979, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 106.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1607",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "9L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.335809528526441, 53.79343533028117, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 107.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_2158",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "9L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.338845638080576, 53.795329669557837, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 108.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1866",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.336852474260715, 53.796290006151914, 0.0 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 109.0,
+                "ID_OLT": "OLT3",
+                "ID_POLE": "OLT3_POLE_1872",
+                "ID_FJE": "OLT3_FJE_015",
+                "LOC": null,
+                "TYPE": "10L",
+                "auxiliary_": null,
+                "auxiliar_1": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.3364827463597, 53.79589664121778, 0.0 ]
+            }
+        }
+    ]
+}
