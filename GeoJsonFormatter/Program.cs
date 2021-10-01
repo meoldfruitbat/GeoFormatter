@@ -1,5 +1,7 @@
 ﻿using System;
 using System.IO;
+using GeoJsonFormatter.Entities;
+using GeoJsonFormatter.Models;
 using Newtonsoft.Json;
 using NJsonSchema.CodeGeneration.CSharp;
 
@@ -13,13 +15,27 @@ namespace GeoJsonFormatter
 
             string[] files = Directory.GetFiles("/Users/admin/Projects/GeoJsonFormatter/GeoJsonFormatter/App_Data/", "PoleData.geojson", SearchOption.AllDirectories);
 
-            foreach (string fileName in files)
+            using (var db = new GGContext())
             {
-                string schema = File.ReadAllText(fileName);
+                foreach (string fileName in files)
+                {
+                    string schema = File.ReadAllText(fileName);
 
-                 var myJsonObject = JsonConvert.DeserializeObject<Root>(schema);
+                    var myJsonObject = JsonConvert.DeserializeObject<Root>(schema);
 
-                Console.WriteLine(myJsonObject.type);
+
+                    foreach (var item in myJsonObject.features)
+                    {
+                        var newPole = new VmnetworkExpansionReleaseData
+                        {
+
+
+                        };
+
+                    }
+
+                    Console.WriteLine(myJsonObject.type);
+                }
             }
         }
     }
