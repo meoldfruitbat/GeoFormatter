@@ -9,6 +9,10 @@
     <Optimize>true</Optimize>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+
   <ItemGroup>
     <Compile Remove="Database\**" />
     <EmbeddedResource Remove="Database\**" />
@@ -16,28 +20,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="App_Data\OLT3-11.geojson" />
-    <None Remove="App_Data\OLT3-12.geojson" />
-    <None Remove="App_Data\OLT3-13.geojson" />
-    <None Remove="App_Data\OLT3-15.geojson" />
-    <None Remove="App_Data\OLT3-16.geojson" />
-    <None Remove="App_Data\OLT3-25.geojson" />
-    <None Remove="App_Data\OLT3-26.geojson" />
-    <None Remove="App_Data\OLT3-27.geojson" />
-    <None Remove="App_Data\OLT3-28.geojson" />
-    <None Remove="App_Data\OLT3-29.geojson" />
-    <None Remove="App_Data\OLT3-40.geojson" />
-    <None Remove="App_Data\OLT3-41.geojson" />
-    <None Remove="App_Data\OLT5-17.geojson" />
-    <None Remove="App_Data\OLT5-18.geojson" />
-    <None Remove="App_Data\OLT5-19.geojson" />
-    <None Remove="App_Data\OLT5-20.geojson" />
-    <None Remove="App_Data\OLT5-21.geojson" />
-    <None Remove="App_Data\OLT5-22.geojson" />
-    <None Remove="App_Data\OLT5-23.geojson" />
-    <None Remove="App_Data\OLT5-24.geojson" />
-    <None Remove="App_Data\OLT5-89.geojson" />
-    <None Remove="App_Data\PoleData.geojson" />
     <None Remove="Newtonsoft.Json" />
     <None Remove="Models\" />
     <None Remove="GeoJSON" />
@@ -99,8 +81,5 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Relational.Design" Version="1.1.6" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.10" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Data\" />
   </ItemGroup>
 </Project>
